@@ -1,0 +1,239 @@
+FOURSQUARE TO GOOGLE MAPS CONVERSION SUMMARY
+==================================================
+
+Total lists: 54
+Total places: 2302
+Places with coordinates: 1182
+Places without coordinates: 1120
+
+HOW TO IMPORT TO GOOGLE MY MAPS:
+--------------------------------------------------
+1. Go to https://www.google.com/maps/d/
+2. Click 'Create a new map'
+3. Click 'Import' under a layer
+4. Upload the CSV file for the list you want
+5. Select 'Latitude' and 'Longitude' columns for positioning
+6. Select 'Name' column for place titles
+7. Repeat for each list
+
+NOTE: Places without coordinates will need to be added manually.
+You can search for them in Google Maps using the venue name.
+
+LISTS:
+--------------------------------------------------
+  11th Arrondissement, 2018
+    File: 11th_Arrondissement,_2018.csv
+    Places: 5/26 with coords
+
+  A Charleston Drink
+    File: A_Charleston_Drink.csv
+    Places: 2/9 with coords
+
+  A list of Bushwick foodstuffs and bars and 🐓
+    File: A_list_of_Bushwick_foodstuffs_and_bars_and_🐓.csv
+    Places: 34/37 with coords
+
+  A list of Denver Eats and Beers
+    File: A_list_of_Denver_Eats_and_Beers.csv
+    Places: 25/47 with coords
+
+  Adventures on the PCH
+    File: Adventures_on_the_PCH.csv
+    Places: 27/47 with coords
+
+  Amsterdaaamen
+    File: Amsterdaaamen.csv
+    Places: 17/44 with coords
+
+  Athena
+    File: Athena.csv
+    Places: 8/33 with coords
+
+  Austin food and drink stuffs
+    File: Austin_food_and_drink_stuffs.csv
+    Places: 31/64 with coords
+
+  BAHSTAHN
+    File: BAHSTAHN.csv
+    Places: 21/37 with coords
+
+  Bangkok - The Hangover 3: Honeymoon Edition
+    File: Bangkok_-_The_Hangover_3_Honeymoon_Edition.csv
+    Places: 8/44 with coords
+
+  Beer bucket list
+    File: Beer_bucket_list.csv
+    Places: 9/13 with coords
+
+  Brattleboro
+    File: Brattleboro.csv
+    Places: 5/11 with coords
+
+  Brokelyn Beer Book Bars, #3 and 4
+    File: Brokelyn_Beer_Book_Bars,_#3_and_4.csv
+    Places: 39/60 with coords
+
+  CT 2nd Hand
+    File: CT_2nd_Hand.csv
+    Places: 4/20 with coords
+
+  Cap i Casal de Catalunya
+    File: Cap_i_Casal_de_Catalunya.csv
+    Places: 11/43 with coords
+
+  Charleston Food and Drinkstuffs
+    File: Charleston_Food_and_Drinkstuffs.csv
+    Places: 27/48 with coords
+
+  Chitown Eats
+    File: Chitown_Eats.csv
+    Places: 26/53 with coords
+
+  Cleveland Brown Town
+    File: Cleveland_Brown_Town.csv
+    Places: 10/30 with coords
+
+  Coastal Maine Road Trippin'
+    File: Coastal_Maine_Road_Trippin'.csv
+    Places: 17/44 with coords
+
+  Connecticut Classic Foods List
+    File: Connecticut_Classic_Foods_List.csv
+    Places: 50/92 with coords
+
+  DV's Puerto Rico List
+    File: DV's_Puerto_Rico_List.csv
+    Places: 9/36 with coords
+
+  Dan V's NYC Burger List v 2.1.1
+    File: Dan_V's_NYC_Burger_List_v_2.1.1.csv
+    Places: 87/112 with coords
+
+  Davis McAlary's New Orleans Eats n' Drinks
+    File: Davis_McAlary's_New_Orleans_Eats_n'_Drinks.csv
+    Places: 34/64 with coords
+
+  Denver to Taos roadtrip!
+    File: Denver_to_Taos_roadtrip!.csv
+    Places: 8/17 with coords
+
+  Gnu Hey-vin
+    File: Gnu_Hey-vin.csv
+    Places: 70/96 with coords
+
+  Houseguest Recommendations
+    File: Houseguest_Recommendations.csv
+    Places: 32/33 with coords
+
+  Hydra!
+    File: Hydra!.csv
+    Places: 9/19 with coords
+
+  Indy OR Craft Beer hitlist
+    File: Indy_OR_Craft_Beer_hitlist.csv
+    Places: 4/16 with coords
+
+  Japan ハネムーン (Hanemūn)
+    File: Japan_ハネムーン_(Hanemūn).csv
+    Places: 38/107 with coords
+
+  Kelly and Danny's List for NHV Visitors
+    File: Kelly_and_Danny's_List_for_NHV_Visitors.csv
+    Places: 53/54 with coords
+
+  Kelly and Danny's winery tour
+    File: Kelly_and_Danny's_winery_tour.csv
+    Places: 5/17 with coords
+
+  Liverpool Pubs of Note
+    File: Liverpool_Pubs_of_Note.csv
+    Places: 6/17 with coords
+
+  London Beebee Shops
+    File: London_Beebee_Shops.csv
+    Places: 0/8 with coords
+
+  Londontown
+    File: Londontown.csv
+    Places: 85/149 with coords
+
+  Los Angel-es
+    File: Los_Angel-es.csv
+    Places: 25/60 with coords
+
+  Mexican Cousin
+    File: Mexican_Cousin.csv
+    Places: 4/19 with coords
+
+  Montreal
+    File: Montreal.csv
+    Places: 17/37 with coords
+
+  NYC Beerstuffs
+    File: NYC_Beerstuffs.csv
+    Places: 24/26 with coords
+
+  NYCVeg
+    File: NYCVeg.csv
+    Places: 12/22 with coords
+
+  Nash... vegas?
+    File: Nash..._vegas.csv
+    Places: 4/17 with coords
+
+  Pah-rhis
+    File: Pah-rhis.csv
+    Places: 35/70 with coords
+
+  Philthydelphia
+    File: Philthydelphia.csv
+    Places: 43/66 with coords
+
+  Pizza places of the New York City Metro Area
+    File: Pizza_places_of_the_New_York_City_Metro_Area.csv
+    Places: 10/19 with coords
+
+  Portlandia
+    File: Portlandia.csv
+    Places: 26/54 with coords
+
+  Quick NYC Trip Revolving Map
+    File: Quick_NYC_Trip_Revolving_Map.csv
+    Places: 7/25 with coords
+
+  San Diego Zoological Checklist
+    File: San_Diego_Zoological_Checklist.csv
+    Places: 26/47 with coords
+
+  San Fransisker
+    File: San_Fransisker.csv
+    Places: 31/43 with coords
+
+  Santa Fe Meow Wolves
+    File: Santa_Fe_Meow_Wolves.csv
+    Places: 7/22 with coords
+
+  Seattle Fish Toss
+    File: Seattle_Fish_Toss.csv
+    Places: 14/34 with coords
+
+  Singapore Eat-in-the-heat
+    File: Singapore_Eat-in-the-heat.csv
+    Places: 10/27 with coords
+
+  Tamper, Flor-iduh
+    File: Tamper,_Flor-iduh.csv
+    Places: 14/36 with coords
+
+  The 'Couv
+    File: The_'Couv.csv
+    Places: 11/34 with coords
+
+  Việt Nam Hônệy Môôn
+    File: Việt_Nam_Hônệy_Môôn.csv
+    Places: 21/40 with coords
+
+  Washington DC Foodstuffs
+    File: Washington_DC_Foodstuffs.csv
+    Places: 25/57 with coords
+
